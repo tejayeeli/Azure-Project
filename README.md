@@ -12,8 +12,7 @@ Screenshots:-
 The AzureServices i used and links and screenshots are given below
 link:-https://portal.azure.com/#@tejayeeli03gmail.onmicrosoft.com/resource/subscriptions/c51c4606-9b45-489a-b8e1-13b42a902706/resourceGroups/LaundryApp_group/providers/Microsoft.Web/staticSites/LaundryApp/staticsite
 screenshot:-![8](https://user-images.githubusercontent.com/114798887/201129622-368a2031-439e-4abe-bc0b-2d73633ec2f9.png)      
-link2:-https://portal.azure.com/#@tejayeeli03gmail.onmicrosoft.com/resource/subscriptions/c51c4606-9b45-489a-b8e1-      13b42a902706/resourcegroups/PPP/providers/Microsoft.Web/sites/LAundryApp/appServices
-![9](https://user-images.githubusercontent.com/114798887/201134140-2c850374-d3c3-405a-b1b2-5ab42f152d56.png)
+            ![9](https://user-images.githubusercontent.com/114798887/201134140-2c850374-d3c3-405a-b1b2-5ab42f152d56.png)
 
  
 
