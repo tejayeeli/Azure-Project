@@ -1,7 +1,8 @@
 # Azure Project
 This is my Azure Project and the link and screenshots are given below
 # Link:- https://orange-sand-0d0d55b00.2.azurestaticapps.net/
-Screenshots:-![1](https://user-images.githubusercontent.com/114798887/201131432-dc6b3139-0fdf-4c3d-a871-3cb24b19939e.png)
+Screenshots:-
+             ![1](https://user-images.githubusercontent.com/114798887/201131432-dc6b3139-0fdf-4c3d-a871-3cb24b19939e.png)
              ![2](https://user-images.githubusercontent.com/114798887/201131585-69bf408f-2694-4cbe-affe-4e9693f50e72.png)
              ![3](https://user-images.githubusercontent.com/114798887/201131652-39e0e034-1dce-442b-baa4-1542cf127498.png)
              ![4](https://user-images.githubusercontent.com/114798887/201131731-d0d10b81-5f6d-4721-b561-1518f1486df5.png)
